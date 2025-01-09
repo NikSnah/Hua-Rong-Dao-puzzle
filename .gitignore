@@ -12,3 +12,4 @@ ENV/
 .pdm.toml
 *.DS_Store
 *.class
+*.vscode/*
